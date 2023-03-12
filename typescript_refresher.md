@@ -8,6 +8,17 @@ Types: #types
 Functions: #functions
 Arrays and Objects: #arrays-and-objects
 
+
+# references
+
+The Net Ninja https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI
+Traversy Media: https://www.youtube.com/watch?v=BCg4U1FzODs  TO DO
+Dave Gray : https://www.youtube.com/watch?v=gieEQFIfgYc  TO DO 
+Java Brains : https://www.youtube.com/watch?v=YPShu0H3RbM&list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU&index=1  skim through 
+Grafikart.fr: https://www.youtube.com/watch?v=uOuulpBs8dQ&list=PLjwdMgw5TTLX1tQ1qDNHTsy_lrkCt4VW3&index=2
+
+
+
 ## TypeScript introudction
 TTypeScript is a programming language that can be used as an alternative to JavaScript (superset). It allows us to use strict types and supports modern features such as arrow functions, let, const, as well as additional functionality including generics, interfaces, and tuples. TypeScript compiles down to JavaScript so that browsers can understand it. The extra step of compilation should not put you off from using TypeScript as it comes with a variety of useful features.
 
