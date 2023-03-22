@@ -11,7 +11,7 @@ Arrays and Objects: #arrays-and-objects
 
 # references
 
-The Net Ninja https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI
+[x] The Net Ninja https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI
 Traversy Media: https://www.youtube.com/watch?v=BCg4U1FzODs  TO DO
 Dave Gray : https://www.youtube.com/watch?v=gieEQFIfgYc  TO DO 
 Java Brains : https://www.youtube.com/watch?v=YPShu0H3RbM&list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU&index=1  skim through 
